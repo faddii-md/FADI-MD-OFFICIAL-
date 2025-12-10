@@ -1,0 +1,84 @@
+2025-11-29 10:16:10 UTC
+Alternative_Saves_Android_Port
+Ren'Py 8.3.2.24090902
+ 
+
+
+Manufacturer INFINIX Model Infinix X6531
+Android Version: 14
+Device Arch:  android-arm64_v8a
+
+Screen diagonal is 5.193505559831432 inches.
+Version: Ren'Py 8.3.2.24090902
+Mobile search paths: /data/user/0/com.phdusa1.sexbot2.recalibrated/files/game /storage/emulated/0/Android/data/com.phdusa1.sexbot2.recalibrated/files/game /storage/emulated/0/Android/data/com.phdusa1.sexbot2.recalibrated/files/../../../../Documents/RenPy_Saves/com.phdusa1.sexbot2.recalibrated/game
+Early init took 0.33s
+Early init took 0.33s
+Loading error handling took 0.37s
+Loading error handling took 0.37s
+Loading script took 1.92s
+Loading script took 1.92s
+Saving to /storage/emulated/0/Android/data/com.phdusa1.sexbot2.recalibrated/files/../../../../Documents/RenPy_Saves/com.phdusa1.sexbot2.recalibrated
+Loading save slot metadata took 0.41s
+Loading save slot metadata took 0.41s
+Loading persistent took 0.01s
+Loading persistent took 0.01s
+Set script version to: (8, 2, 3)
+Running init code took 0.40s
+Running init code took 0.40s
+Loading analysis data took 0.42s
+Loading analysis data took 0.42s
+Analyze and compile ATL took 0.06s
+Analyze and compile ATL took 0.06s
+Reloading save slot metadata took 0.19s
+Reloading save slot metadata took 0.19s
+Index archives took 0.00s
+Index archives took 0.00s
+Dump and make backups took 0.00s
+Dump and make backups took 0.00s
+Cleaning cache took 0.00s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.41s
+Initial gc took 0.41s
+DPI scale factor: 1.000000
+Creating interface object took 0.02s
+Creating interface object took 0.02s
+Cleaning stores took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.43s
+Init translation took 0.43s
+Build styles took 0.01s
+Build styles took 0.01s
+Load screen analysis took 0.50s
+Load screen analysis took 0.50s
+Analyze screens took 0.01s
+Analyze screens took 0.01s
+Save screen analysis took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 1.46s
+Prepare screens took 1.46s
+Save pyanalysis. took 0.00s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.01s
+Running _start took 0.01s
+Interface start took 0.69s
+Interface start took 0.69s
+
+Initializing gles2 renderer:
+primary display bounds: (0, 0, 1520, 672)
+swap interval: 1 frames
+Fullscreen mode.
+Vendor: "b'ARM'"
+Renderer: b'Mali-G52 MC2'
+Version: b'OpenGL ES 3.2 v1.r32p1-01eac0.2a893c04ca0026c2e6802dbe7d7af5c5'
+Display Info: None
+Screen sizes: virtual=(1920, 1080) physical=(1520, 720) drawable=(1520, 720)
+Maximum texture size: 4096x4096
+Total time until interface ready: 8.087526082992554s.
+Hid presplash.
+Pausing audio.
+Disabling periodic events.
+Saving.
